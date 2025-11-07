@@ -57,7 +57,7 @@ http://192.168.5.1:4022/rtp/239.3.1.117:8000
 http://192.168.5.1:4022/rtp/239.3.1.189:8000
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" group-title="高清北京",BRTV新闻
 http://192.168.5.1:4022/rtp/239.3.1.159:8000
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="北京",BRTV国际
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="高清北京",BRTV国际
 http://192.168.5.1:4022/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" group-title="高清卫视",湖南卫视
 http://192.168.5.1:4022/rtp/239.3.1.132:8012
